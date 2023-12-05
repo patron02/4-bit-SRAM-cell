@@ -17,7 +17,11 @@ OR Gate: https://www.ti.com/lit/ds/symlink/sn74ls32.pdf <br>
 <img width="700" alt="image" src="https://github.com/patron02/4-bit-SRAM-cell/assets/69320369/d23c0f18-2211-42fe-9d41-d88b6be92201"> <br>
 
 ## Build
-<img width="700" alt="image" src="https://github.com/patron02/4-bit-SRAM-cell/assets/69320369/ef93cc18-6bd8-4a28-8ede-6103f35b6399"> <br>
+<img width="700" alt="image" src="https://github.com/patron02/4-bit-SRAM-cell/assets/69320369/b40658ed-eb93-49cd-b762-ef07e60d95f9"> <br>
+
+## Demo
+<img width="700" alt="image" src="https://github.com/patron02/4-bit-SRAM-cell/assets/69320369/5de2e98b-bb54-4b2a-8cf0-570d942ffbe7"> <br?
+
 
 
 
