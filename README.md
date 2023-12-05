@@ -8,5 +8,12 @@ CMOS: https://www.ti.com/lit/ds/symlink/cd4007ub.pdf?ts=1701807511527&ref_url=ht
 OR Gate: https://www.ti.com/lit/ds/symlink/sn74ls32.pdf <br>
 
 ## Design
-<img width="700" alt="image" src="https://github.com/patron02/4-bit-SRAM-cell/assets/69320369/92a011f8-dd5f-4b69-af38-9472de929935">
+<img width="700" alt="image" src="https://github.com/patron02/4-bit-SRAM-cell/assets/69320369/92a011f8-dd5f-4b69-af38-9472de929935"> <br>
+
+<img width="700" alt="image" src="https://github.com/patron02/4-bit-SRAM-cell/assets/69320369/6c1e338b-64f0-4610-9dab-ae0c280db8cc"> <br>
+
+<img width="700" alt="image" src="https://github.com/patron02/4-bit-SRAM-cell/assets/69320369/775725ef-0bd9-4224-913f-cb475a32fb8d"> <br>
+
+<img width="700" alt="image" src="https://github.com/patron02/4-bit-SRAM-cell/assets/69320369/d23c0f18-2211-42fe-9d41-d88b6be92201"> <br>
+
 
